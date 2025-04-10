@@ -5,3 +5,5 @@ I'm an undergraduate student passionate about open-source software development.
 - 📫 How to reach me: aquila-dev@proton.me
 
 Portfolio and Blog: https://aquila-dev.vercel.app/
+
+![cmd05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmd05&theme=radical&show_icons=true&hide_rank=true)
